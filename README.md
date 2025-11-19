@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+LINK GOOGLE DRIVE LAPORAN APLIKASI :  https://drive.google.com/drive/folders/1Esp3QywpQnhhJ4xOE0h3bFi4CqwXMQ2G?usp=sharing
+
 halaman register :
 
 <img width="627" height="1058" alt="halamanregister" src="https://github.com/user-attachments/assets/5d0ff6ff-8195-4154-a776-a1b2acc7d37a" />
