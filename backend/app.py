@@ -35,7 +35,7 @@ app = Flask(__name__)
 CORS(app)
 
 # API Key Gemini dari .env
-GEMINI_API_KEY = os.getenv('GEMINI_API_KEY', 'AIzaSyC05SygDpXSUO6DIPqmHGjV_A0M0DumLRI')
+GEMINI_API_KEY = os.getenv('GEMINI_API_KEY', '')
 
 # Konfigurasi dari .env
 FLASK_DEBUG = os.getenv('FLASK_DEBUG', 'True').lower() == 'true'
