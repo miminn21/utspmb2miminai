@@ -67,7 +67,7 @@ def check_env_file():
         try:
             with open(env_file, 'w', encoding='utf-8') as f:
                 f.write("""# AI Assistant Configuration
-GEMINI_API_KEY=AIzaSyC05SygDpXSUO6DIPqmHGjV_A0M0DumLRI
+GEMINI_API_KEY=
 
 # Server Configuration
 FLASK_ENV=development
